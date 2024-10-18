@@ -1,11 +1,12 @@
 repaso de todos los comandos de git 
 comandos :
-1
-2
-3
-4
-5
-6
-7
-8
+1 git init 
+2 clear 
+3 git config --global.name 
+4 git config --global.email 
+4 git log 
+5 git add .
+6 git status 
+7 git momit -m
+8 git push -u origin master 
 9
